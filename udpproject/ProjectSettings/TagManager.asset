@@ -13,14 +13,14 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - rightsideUp
+  - upsideDown
+  - Platform
+  - c
+  - triggers
+  - flagtriggers
+  - deathtriggers
+  - v
   - 
   - 
   - 
@@ -40,4 +40,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: vi
+    uniqueID: 2712115963
     locked: 0
